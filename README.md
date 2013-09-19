@@ -1,5 +1,4 @@
-Getty Connect request helper
-############################
+# Getty Connect request helper
 
 A small script to help you make calls to GettyConnect, without thinking of
 keeping alive your session.
