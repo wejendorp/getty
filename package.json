@@ -1,14 +1,14 @@
 {
   "name": "getty",
   "version": "0.0.1",
-  "description": "Request helper for talking to Getty images API",
+  "description": "Request helper for talking to Gettyimages Connect API.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "wejendorp/getty"
+    "url": "git://github.com/wejendor/getty.git"
   },
   "keywords": [
     "getty",
@@ -17,6 +17,9 @@
     "connect",
     "api"
   ],
-  "author": "Jacob Wejendorp",
-  "license": "BSD"
+  "author": "Jacob Wejendorp <jacob@wejendorp.dk>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.27.0"
+  }
 }
