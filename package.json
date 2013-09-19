@@ -1,0 +1,22 @@
+{
+  "name": "getty",
+  "version": "0.0.1",
+  "description": "Request helper for talking to Getty images API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "wejendorp/getty"
+  },
+  "keywords": [
+    "getty",
+    "gettyimages",
+    "images",
+    "connect",
+    "api"
+  ],
+  "author": "Jacob Wejendorp",
+  "license": "BSD"
+}
