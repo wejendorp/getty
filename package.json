@@ -1,6 +1,6 @@
 {
   "name": "getty",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Request helper for talking to Gettyimages Connect API.",
   "main": "index.js",
   "scripts": {
